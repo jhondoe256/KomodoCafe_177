@@ -1,0 +1,16 @@
+1. Domain: P.O.C.O
+
+The Menu Item:
+A unique meal number, so customers can say "I'll have the #5"
+A meal name
+A description
+A list of ingredients
+A price
+
+
+2. Repository: 
+List<MenuItem> _menuDb
+CRUD METHODS...
+
+
+3. UI...
